@@ -8,7 +8,7 @@
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/1.%20Python_Refresher.ipynb
 
 ### Intro to EDA
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/2.%20Intro%20to%20EDA%20in%20python.ipynb
+https://colab.research.google.com/drive/1cmfQONuUlh2GnSoepHMQE34FoAIxNh3Y?usp=sharing
 
 ### Linear Regression with sklearn
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/3.%20Linear%20Regression%20with%20sklearn.ipynb
