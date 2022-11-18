@@ -13,7 +13,6 @@ https://colab.research.google.com/drive/1cmfQONuUlh2GnSoepHMQE34FoAIxNh3Y?usp=sh
 ### Linear Regression with sklearn
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/3.%20Linear%20Regression%20with%20sklearn.ipynb
 
-
 ### Classification with sklearn
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/4.%20Classification%20with%20sklearn%20-%20Titanic%20Problem.ipynb
 
