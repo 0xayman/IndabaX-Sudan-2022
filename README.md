@@ -11,7 +11,7 @@ https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Da
 https://colab.research.google.com/drive/1cmfQONuUlh2GnSoepHMQE34FoAIxNh3Y?usp=sharing
 
 ### Linear Regression with sklearn
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/3.%20Linear%20Regression%20with%20sklearn.ipynb
+https://colab.research.google.com/drive/16G80WoOM42pneyYaot0RLFLYcRAzcMQ0?usp=sharing
 
 ### Classification with sklearn
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/4.%20Classification%20with%20sklearn%20-%20Titanic%20Problem.ipynb
