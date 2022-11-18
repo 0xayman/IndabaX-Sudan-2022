@@ -17,8 +17,7 @@ https://colab.research.google.com/drive/16G80WoOM42pneyYaot0RLFLYcRAzcMQ0?usp=sh
 https://lukaszkujawa.github.io/gradient-descent.html
 
 ### Classification with sklearn
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%201/Notebooks/4.%20Classification%20with%20sklearn%20-%20Titanic%20Problem.ipynb
-
+https://colab.research.google.com/drive/14gtdQ7gC6vjvYQxT6pmfxHiHxinwCdyt?usp=sharing
 
 ## Day 2
 
