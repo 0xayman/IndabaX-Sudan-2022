@@ -22,10 +22,7 @@ https://colab.research.google.com/drive/14gtdQ7gC6vjvYQxT6pmfxHiHxinwCdyt?usp=sh
 ## Day 2
 
 ### Deep Learning 1.1
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%202/1.%20Deep%20Learning%201.1.ipynb
-
-### Deep Learning 1.2
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%202/2.%20Deep%20Learning%201.2.ipynb
+https://colab.research.google.com/drive/1LufZXTGYfItZuoeC4RqldB8jwy4af8Yj?usp=sharing
 
 ### Deep Learning 2
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%202/3.%20Deep%20Learning%202.ipynb
