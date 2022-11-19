@@ -31,7 +31,7 @@ https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Da
 https://colab.research.google.com/drive/1RDvLFb7-n2st2PuXtoVNvv2cnEVSCIB7?usp=sharing
 
 ### Introduction to RL
-https://colab.research.google.com/drive/1vcQWvNDoAuoGIvMBWlvM1Oxzny1zh_wr?usp=sharing
+https://colab.research.google.com/drive/1RDvLFb7-n2st2PuXtoVNvv2cnEVSCIB7?usp=sharing
 
 ### From Model to Production
 https://colab.research.google.com/drive/1b-JamrMqYz14-9YkC89ia0Fvs7tiOfej?usp=sharing
