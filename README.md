@@ -28,7 +28,7 @@ https://colab.research.google.com/drive/1LufZXTGYfItZuoeC4RqldB8jwy4af8Yj?usp=sh
 https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%202/3.%20Deep%20Learning%202.ipynb
 
 ### Introduction to Pytorch
-https://colab.research.google.com/github/0xayman/IndabaX-Sudan-2022/blob/main/Day%202/4.%20Deep%20Learning%20with%20Pytourch.ipynb
+https://colab.research.google.com/drive/1RDvLFb7-n2st2PuXtoVNvv2cnEVSCIB7?usp=sharing
 
 ### Introduction to RL
 https://colab.research.google.com/drive/1vcQWvNDoAuoGIvMBWlvM1Oxzny1zh_wr?usp=sharing
